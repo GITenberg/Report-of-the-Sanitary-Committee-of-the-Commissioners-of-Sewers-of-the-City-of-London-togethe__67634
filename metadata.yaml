@@ -1,0 +1,40 @@
+_repo: Report-of-the-Sanitary-Committee-of-the-Commissioners-of-Sewers-of-the-City-of-London-togethe__67634
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Saunders, W. Sedgwick (William Sedgwick)
+    aliases:
+    - Saunders, William Sedgwick
+    - Saunders, Wm. Sedgwick
+    birthdate: 1824
+    deathdate: 1901
+    gutenberg_agent_id: '54369'
+    url: http://www.gutenberg.org/2009/agents/54369
+  - agent_name: City of London (England). Commissioners of Sewers. Sanitary Committee
+    gutenberg_agent_id: '54378'
+    url: http://www.gutenberg.org/2009/agents/54378
+description: ''
+gutenberg_issued: '2022-03-15'
+identifiers:
+  gutenberg: '67634'
+language: en
+pgterms:marc904: https://archive.org/details/b2476615x
+pgterms:marc905: 20210110085245saunders
+pgterms:marc906: '1876'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Charles Skipper & East (printers),1876.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaughtering and slaughter-houses -- Law and legislation -- Great Britain'
+- !lcc 'RA'
+- !lcsh 'Sewerage'
+- GITenberg
+title: Report of the Sanitary Committee of the Commissioners of Sewers of the City
+  of London, together with a report of the Medical Officer of Health on the objections
+  raised by the Butchers' Trade Society to the bye-laws proposed for the regulation
+  of slaughter-houses
+url: http://www.gutenberg.org/ebooks/67634
