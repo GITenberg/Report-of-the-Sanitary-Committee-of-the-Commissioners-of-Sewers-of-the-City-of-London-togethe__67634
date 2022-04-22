@@ -1,5 +1,8 @@
 _repo: Report-of-the-Sanitary-Committee-of-the-Commissioners-of-Sewers-of-the-City-of-London-togethe__67634
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67634-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Saunders, W. Sedgwick (William Sedgwick)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '54378'
     url: http://www.gutenberg.org/2009/agents/54378
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67634#Report-of-the-Sanitary-Committee-of-the-Commissioners-of-Sewers-of-the-City-of-London-togethe_
 gutenberg_issued: '2022-03-15'
 identifiers:
   gutenberg: '67634'
